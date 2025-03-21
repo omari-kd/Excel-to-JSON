@@ -8,7 +8,6 @@ Features
 - Customizable JSON output format
 - Simple API for easy integration into existing projects
 - Handles large files efficiently
-- Optional grammar correction for text fields
 
 # Installation
 
